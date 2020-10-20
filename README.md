@@ -37,7 +37,7 @@ You can download the whole dataset on [here](https://www.google.com/)
     + IMU: "/mavros/imu/data" (100 Hz)
     + Ground-Truth: "/pose_transformed" (50 Hz)
 + In **config** directory
-    + trans-mat.yaml: translational matrix between the origin of the Ground-Truth and the VI sensor unit.
+    + trans-mat.yaml: translational matrix between the origin of the Ground-Truth and the VI sensor unit. (just for reference)
     + imu-params.yaml: estimated noise parameters of Pixhawk 4 mini
     + cam-imu.yaml: Camera intrinsics, Camera-IMU extrinsics in kalibr format
 
