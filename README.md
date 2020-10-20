@@ -8,7 +8,7 @@ You can download the whole dataset on [KAIST VIO dataset](https://www.google.com
 # Index
 ### 1. Trajectories
 ### 2. Downloads
-### 3. Available data
+### 3. Data format
 ### 4. Setup
 <br><br>
 
@@ -30,7 +30,7 @@ You can download a single file from the link below. (or whole dataset from [KAIS
 | **rotation**   | normal<br>fast  | [link](https://www.google.com/)<br>[link](https://www.google.com/) |
 
 <br><br>
-### 3. Available data
+### 3. Data format
 <img width="300" src=https://user-images.githubusercontent.com/45934290/96554882-13e39680-12f2-11eb-9464-135aca484dc4.png><br>
 
 + Each set of data is recorded as a **ROS bag** file.
