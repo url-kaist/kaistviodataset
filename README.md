@@ -44,7 +44,7 @@ You can download a single file from the link below. (or whole dataset from [KAIS
     + IMU: *"/mavros/imu/data"* (100 Hz)
     + Ground-Truth: *"/pose_transformed"* (50 Hz)
 + In **config** directory
-    + trans-mat.yaml: translational matrix between the origin of the Ground-Truth and the VI sensor unit. (just for reference)
+    + trans-mat.yaml: translational matrix between the origin of the Ground-Truth and the VI sensor unit. (the offset has already been applied to the bag data, and this YAML file has estimated offset values, just for reference. To benchmark your VO/VIO method, you can use your alignment method with other tools, like origin alignment or Umeyama alignment from [evo](https://github.com/MichaelGrupp/evo))
     + imu-params.yaml: estimated noise parameters of Pixhawk 4 mini
     + cam-imu.yaml: Camera intrinsics, Camera-IMU extrinsics in kalibr format
 
