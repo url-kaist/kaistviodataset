@@ -28,10 +28,14 @@ You can download the whole dataset on [here](https://www.google.com/)
 
 + Each set of data is recorded as a **ROS bag** file.
 + Each **data** sequence contains followings:
-    + a pair of stereo infra images (w/ emitter turned off):  "/camera/infra1/image_rect_raw", "/camera/infra2/image_rect_raw"
-    + one RGB image:  "/camera/color/image_raw"
-    + IMU data (3-axes accelerometer, 3-axes gyroscopes):  "/mavros/imu/data"
-    + 6-DOF Ground-Truth:  "/pose_transformed"
+    + a pair of stereo infra images (w/ emitter turned off)
+    + one RGB image
+    + IMU data (3-axes accelerometer, 3-axes gyroscopes)
+    + 6-DOF Ground-Truth
++ ROS topic
+    + Camera: "/camera/infra1/image_rect_raw", "/camera/infra2/image_rect_raw", "/camera/color/image_raw" (30 Hz)
+    + IMU: "/mavros/imu/data" (100 Hz)
+    + Ground-Truth: "/pose_transformed" (50 Hz)
 + In **config** directory
     + trans-mat.yaml: translational matrix between the origin of the Ground-Truth and the VI sensor unit.
     + imu-params.yaml: estimated noise parameters of Pixhawk 4 mini
@@ -47,9 +51,9 @@ You can download the whole dataset on [here](https://www.google.com/)
 
 <br><br>
 + **VI sensor unit**
-    + camera: Intel Realsense D435i (30 Hz, 640x480 for infra 1,2 & RGB images)
-    + IMU: Pixhawk 4 mini (100 Hz)
-    + VI sensor unit was calibrated by using [kalibr](https://github.com/ethz-asl/kalibr) (50 Hz)
+    + camera: Intel Realsense D435i (640x480 for infra 1,2 & RGB images)
+    + IMU: Pixhawk 4 mini
+    + VI sensor unit was calibrated by using [kalibr](https://github.com/ethz-asl/kalibr)
     <br>
 + **Ground-Truth**
     + OptiTrack Prime<sup>X</sup> 13 motion capture system with six cameras was used
