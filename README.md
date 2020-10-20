@@ -28,13 +28,13 @@ You can download the whole dataset on [here](https://www.google.com/)
 + **Ground-Truth**
     + OptiTrack Prime<sup>X</sup> 13 motion capture system with six cameras was used
     + including 6-DOF motion information.
-    <br>
+    <br><br>
 
 ### 2. Trajectories
-<img width="600" src="https://user-images.githubusercontent.com/45934290/96549200-222db480-12ea-11eb-8273-30d08be27316.png">
+<img width="600" src="https://user-images.githubusercontent.com/45934290/96549200-222db480-12ea-11eb-8273-30d08be27316.png"><br><br>
 
 ### 3. Available data
-<img width="313" src=https://user-images.githubusercontent.com/45934290/96554882-13e39680-12f2-11eb-9464-135aca484dc4.png>
+<img width="400" src=https://user-images.githubusercontent.com/45934290/96554882-13e39680-12f2-11eb-9464-135aca484dc4.png>
 
 
 
