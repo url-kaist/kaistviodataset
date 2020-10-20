@@ -23,6 +23,7 @@ You can download the whole dataset on [here](https://www.google.com/)
 
 ### 2. Downloads
 
+<br><br>
 ### 3. Available data
 <img width="300" src=https://user-images.githubusercontent.com/45934290/96554882-13e39680-12f2-11eb-9464-135aca484dc4.png><br>
 
@@ -34,13 +35,14 @@ You can download the whole dataset on [here](https://www.google.com/)
     + 6-DOF Ground-Truth
 
 
+<br><br>
 ### 4. Setup
 <div>
 <img width="300" src=https://user-images.githubusercontent.com/45934290/96550149-77b69100-12eb-11eb-91da-2d413cae40d6.png>
 <img width="313" src=https://user-images.githubusercontent.com/45934290/96550443-d419b080-12eb-11eb-805d-dab8393dd6f0.png>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.1 Lab Environment  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.2 UAV platform
 
-<br><br>
+<br>
 + **VI sensor unit**
     + camera: Intel Realsense D435i (30 Hz, 640x480 for infra 1,2 & RGB images)
     + IMU: Pixhawk 4 mini (100 Hz)
