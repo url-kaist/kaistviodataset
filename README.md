@@ -3,7 +3,7 @@
 ***
 This is the dataset for testing the robustness of various VO/VIO methods
 
-You can download the whole dataset on [here]("https://www.google.com/")
+You can download the whole dataset on [here](https://www.google.com/)
 ***
 # Index
 ### 1. Setup
