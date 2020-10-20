@@ -1,4 +1,4 @@
-# kaistviodataset
+# KAIST VIO dataset
 
 ***
 This is the dataset for testing the robustness of various VO/VIO methods
