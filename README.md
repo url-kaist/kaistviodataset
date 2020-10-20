@@ -33,10 +33,7 @@ You can download the whole dataset on [here]("https://www.google.com/")
 <img width="600" src="https://user-images.githubusercontent.com/45934290/96549200-222db480-12ea-11eb-8273-30d08be27316.png">
 
 ### 3. Available data
-├── figure1_GT (1).pdf<br>
-├── figure1_GT.pdf<br>
-├── VO_VIO_Benchmark_on_Jetson_TX2__Xavier__Xavier_NX (1).pdf<br>
-└── VO_VIO_Benchmark_on_Jetson_TX2__Xavier__Xavier_NX.pdf<br>
+<img width="313" src=https://user-images.githubusercontent.com/45934290/96554882-13e39680-12f2-11eb-9464-135aca484dc4.png>
 
 
 
