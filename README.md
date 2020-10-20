@@ -23,6 +23,7 @@ You can download the whole dataset on [here]("https://www.google.com/")
 + **VI sensor unit**
     + camera: Intel Realsense D435i
     + IMU: Pixhawk 4 mini
+    + VI sensor unit was calibrated by using [kalibr]()
     <br>
 + **Ground-Truth**
     + OptiTrack Prime<sup>X</sup> 13 motion capture system with six cameras was used
