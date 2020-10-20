@@ -33,13 +33,11 @@ You can download the whole dataset on [here](https://www.google.com/)
 ### 2. Trajectories
 <img width="600" src="https://user-images.githubusercontent.com/45934290/96549200-222db480-12ea-11eb-8273-30d08be27316.png"><br>
 KAIST VIO dataset includes four different trajectories: *circle, infinity, square,* and
-*pure_rotation* with normal speed, fast speed, and rotation. Each sequence contains a pair of stereo
-images, one RGB image, and IMU data with accurate Ground
-Truth by a motion capture system, acquired during UAV
-flight.<br><br>
+*pure_rotation* with normal speed, fast speed, and rotation.<br><br>
 
 ### 3. Available data
-<img width="400" src=https://user-images.githubusercontent.com/45934290/96554882-13e39680-12f2-11eb-9464-135aca484dc4.png>
+<img width="400" src=https://user-images.githubusercontent.com/45934290/96554882-13e39680-12f2-11eb-9464-135aca484dc4.png><br>
+Each sequence contains a pair of stereo infra images, one RGB image, and IMU data with accurate 6-DOF Ground-Truth acquired during UAV flight.
 
 
 
