@@ -21,7 +21,7 @@ You can download the whole dataset on [KAIST VIO dataset](https://www.google.com
 + The *pure rotation* sequence has only *normal speed, fast speed* types<br><br>
 
 ### 2. Downloads
-+ You can download a single file from the link below. (or whole dataset from [KAIST VIO dataset](https://www.google.com/))<br>
++ You can download a single file from the link below. 
 | Trajectory | Type | ROS bag download |
 | :---:        |     :---      | :---:   |
 | **circle**   | normal<br>fast<br>rotation  | [here](https://www.google.com/)<br>[here](https://www.google.com/)<br>[here](https://www.google.com/) |
