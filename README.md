@@ -21,9 +21,9 @@ You can download the whole dataset on [here](https://www.google.com/)
 
 <br><br>
 + **VI sensor unit**
-    + camera: Intel Realsense D435i
-    + IMU: Pixhawk 4 mini
-    + VI sensor unit was calibrated by using [kalibr](https://github.com/ethz-asl/kalibr)
+    + camera: Intel Realsense D435i (30 Hz, 640x480 for infra 1,2 & RGB images)
+    + IMU: Pixhawk 4 mini (100 Hz)
+    + VI sensor unit was calibrated by using [kalibr](https://github.com/ethz-asl/kalibr) (50 Hz)
     <br>
 + **Ground-Truth**
     + OptiTrack Prime<sup>X</sup> 13 motion capture system with six cameras was used
