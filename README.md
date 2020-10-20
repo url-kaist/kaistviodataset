@@ -23,19 +23,19 @@ You can download the whole dataset on [here](https://www.google.com/)
 
 ### 2. Downloads
 
-<br>
+<br><br>
 ### 3. Available data
 <img width="300" src=https://user-images.githubusercontent.com/45934290/96554882-13e39680-12f2-11eb-9464-135aca484dc4.png><br>
 
 + Each set of data is recorded as a **ROS bag** file.
 + Each sequence contains followings:
-    + a pair of stereo infra images (w/ emitter turned off)
-    + one RGB image
-    + IMU data (3-axes accelerometer, 3-axes gyroscopes)
-    + 6-DOF Ground-Truth
+    + a pair of stereo infra images (w/ emitter turned off) - /camera/infra1/image_rect_raw, /camera/infra2/image_rect_raw
+    + one RGB image - /camera/color/image_raw
+    + IMU data (3-axes accelerometer, 3-axes gyroscopes) - /mavros/imu/data
+    + 6-DOF Ground-Truth - /pose_transformed
 
 
-<br>
+<br><br>
 ### 4. Setup
 <div>
 <img width="300" src=https://user-images.githubusercontent.com/45934290/96550149-77b69100-12eb-11eb-91da-2d413cae40d6.png>
