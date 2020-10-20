@@ -21,10 +21,12 @@ You can download the whole dataset on [here](https://www.google.com/)
 + The *pure rotation* sequence has only *normal speed, fast speed* types<br><br>
 
 ### 2. Downloads
-| Trajectory | Type | Download |
+| Trajectory | Type | ROS bag download |
 | :---:        |     :---      | :---:   |
-| circle   | normal<br>fast<br>rotation  | here<br>here<br>here |
-| infinity   | normal<br>fast<br>rotation  | here<br>here<br>here |
+| **circle**   | normal<br>fast<br>rotation  | [here](https://www.google.com/)<br>[here](https://www.google.com/)<br>[here](https://www.google.com/) |
+| **infinity**   | normal<br>fast<br>rotation  | [here](https://www.google.com/)<br>[here](https://www.google.com/)<br>[here](https://www.google.com/) |
+| **square**   | normal<br>fast<br>rotation  | [here](https://www.google.com/)<br>[here](https://www.google.com/)<br>[here](https://www.google.com/) |
+| **rotation**   | normal<br>fast  | [here](https://www.google.com/)<br>[here](https://www.google.com/) |
 
 <br><br>
 ### 3. Available data
