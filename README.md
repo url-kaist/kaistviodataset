@@ -28,11 +28,15 @@ You can download the whole dataset on [here](https://www.google.com/)
 <img width="300" src=https://user-images.githubusercontent.com/45934290/96554882-13e39680-12f2-11eb-9464-135aca484dc4.png><br>
 
 + Each set of data is recorded as a **ROS bag** file.
-+ Each sequence contains followings:
++ Each **data** sequence contains followings:
     + a pair of stereo infra images (w/ emitter turned off):  "/camera/infra1/image_rect_raw", "/camera/infra2/image_rect_raw"
     + one RGB image:  "/camera/color/image_raw"
     + IMU data (3-axes accelerometer, 3-axes gyroscopes):  "/mavros/imu/data"
     + 6-DOF Ground-Truth:  "/pose_transformed"
++ In **config** directory
+    + trans-mat.yaml: translational matrix between the origin of the Ground-Truth and the VI sensor unit.
+    + imu-params.yaml: estimated noise parameters of Pixhawk 4 mini
+    + cam-imu.yaml: Camera intrinsics, Camera-IMU extrinsics
 
 
 <br><br>
