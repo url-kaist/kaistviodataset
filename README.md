@@ -7,13 +7,11 @@ You can download the dataset on [here]("https://www.google.com/")
 ***
 # Index
 ### 1. Setup
-####    &nbsp;&nbsp;&nbsp;&nbsp;● Eigen
-####    &nbsp;&nbsp;&nbsp;&nbsp;● Ceres solver
+####    &nbsp;&nbsp;&nbsp;&nbsp;● environment setup
+####    &nbsp;&nbsp;&nbsp;&nbsp;● platform setup
 ### 2. Ground-Truth trajectories
-### 3. Jetson Boards
-####    &nbsp;&nbsp;&nbsp;&nbsp;● Actu#### ● Uploaded folders for following setup: D435i, pixhawk4 mini 
-#### ● for using your own sensor setup, you have to get a calibration data using [kalibr](https://github.com/zinuok/kalibr)ally, there is no installation difference among TX2, Xavier, and NX
-### 4. Run
+### 3. Available data
+### 4. Downloads
 <br><br>
 
 
