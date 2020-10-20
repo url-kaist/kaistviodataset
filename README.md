@@ -4,6 +4,20 @@
 This is the dataset for testing the robustness of various VO/VIO
 
 You can download the dataset on [here]("https://www.google.com/")
++ **hardware setup**
+    + jetson TX2 - Jetpack 4.2
+    + jetson AGX Xavier
+    + jetson Xavier NX - Jetpack 4.4
+    + realsense D435i (color, infra1, infra2)
+    + pixhawk4 mini
+    <br>
++ **software setup**
+    + Ubuntu: 18.04 
+    + ROS: Melodic
+    + OpenCV 3.4.1
+    <br>
++ **CPU ver. github link**: [HKUST-Aerial-Robotics](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)
++ **GPU ver. github link**: [HKUST-Aerial-Robotics](https://github.com/pjrambo/VINS-Fusion-gpu)
 ***
 
 ### Setup
