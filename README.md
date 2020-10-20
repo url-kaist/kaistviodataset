@@ -32,5 +32,12 @@ You can download the whole dataset on [here]("https://www.google.com/")
 ### 2. Trajectories
 <img width="600" src="https://user-images.githubusercontent.com/45934290/96549200-222db480-12ea-11eb-8273-30d08be27316.png">
 
+### 3. Available data
+├── figure1_GT (1).pdf
+├── figure1_GT.pdf
+├── VO_VIO_Benchmark_on_Jetson_TX2__Xavier__Xavier_NX (1).pdf
+└── VO_VIO_Benchmark_on_Jetson_TX2__Xavier__Xavier_NX.pdf
+
+
 
 
