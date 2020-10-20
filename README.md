@@ -39,7 +39,13 @@ Each trajectory has three types of sequence: *normal speed, fast speed, and rota
 
 ### 3. Available data
 <img width="400" src=https://user-images.githubusercontent.com/45934290/96554882-13e39680-12f2-11eb-9464-135aca484dc4.png><br>
-Each sequence contains a pair of stereo infra images, one RGB image, and IMU data with accurate 6-DOF Ground-Truth acquired during UAV flight.
+
++ Each set of data is recorded as a **ROS bag** file.
++ Each sequence contains followings:
+    + a pair of stereo infra images (w/ emitter turned off)
+    + one RGB image
+    + IMU data (3-axes accelerometer, 3-axes gyroscopes)
+    + 6-DOF Ground-Truth
 
 
 
