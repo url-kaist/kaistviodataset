@@ -35,14 +35,14 @@ You can download a single file from the link below. (or whole dataset from [KAIS
 
 + Each set of data is recorded as a **ROS bag** file.
 + Each **data** sequence contains followings:
-    + a pair of stereo infra images (w/ emitter turned off)
-    + one RGB image
+    + stereo infra images (w/ emitter turned off)
+    + mono RGB image
     + IMU data (3-axes accelerometer, 3-axes gyroscopes)
     + 6-DOF Ground-Truth
 + ROS topic
-    + Camera: "/camera/infra1/image_rect_raw", "/camera/infra2/image_rect_raw", "/camera/color/image_raw" (30 Hz)
-    + IMU: "/mavros/imu/data" (100 Hz)
-    + Ground-Truth: "/pose_transformed" (50 Hz)
+    + Camera: *"/camera/infra1(2)/image_rect_raw", "/camera/color/image_raw"* (30 Hz)
+    + IMU: *"/mavros/imu/data"* (100 Hz)
+    + Ground-Truth: *"/pose_transformed"* (50 Hz)
 + In **config** directory
     + trans-mat.yaml: translational matrix between the origin of the Ground-Truth and the VI sensor unit. (just for reference)
     + imu-params.yaml: estimated noise parameters of Pixhawk 4 mini
