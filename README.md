@@ -7,8 +7,6 @@ You can download the whole dataset on [here]("https://www.google.com/")
 ***
 # Index
 ### 1. Setup
-####    &nbsp;&nbsp;&nbsp;&nbsp;● environment setup
-####    &nbsp;&nbsp;&nbsp;&nbsp;● platform setup
 ### 2. Trajectories
 ### 3. Available data
 ### 4. Downloads
