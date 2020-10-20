@@ -34,7 +34,7 @@ You can download a single file from the link below. (or whole dataset from [KAIS
 <img width="300" src=https://user-images.githubusercontent.com/45934290/96554882-13e39680-12f2-11eb-9464-135aca484dc4.png><br>
 
 + Each set of data is recorded as a **ROS bag** file.
-+ Each **data** sequence contains followings:
++ Each **data** sequence contains the followings:
     + stereo infra images (w/ emitter turned off)
     + mono RGB image
     + IMU data (3-axes accelerometer, 3-axes gyroscopes)
@@ -43,7 +43,7 @@ You can download a single file from the link below. (or whole dataset from [KAIS
     + Camera: *"/camera/infra1(2)/image_rect_raw", "/camera/color/image_raw"* (30 Hz)
     + IMU: *"/mavros/imu/data"* (100 Hz)
     + Ground-Truth: *"/pose_transformed"* (50 Hz)
-+ In **config** directory
++ In the **config** directory
     + trans-mat.yaml: translational matrix between the origin of the Ground-Truth and the VI sensor unit. (the offset has already been applied to the bag data, and this YAML file has estimated offset values, just for reference. To benchmark your VO/VIO method, you can use your alignment method with other tools, like origin alignment or Umeyama alignment from [evo](https://github.com/MichaelGrupp/evo))
     + imu-params.yaml: estimated noise parameters of Pixhawk 4 mini
     + cam-imu.yaml: Camera intrinsics, Camera-IMU extrinsics in kalibr format
