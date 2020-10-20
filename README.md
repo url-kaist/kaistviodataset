@@ -16,10 +16,10 @@ You can download the whole dataset on [here](https://www.google.com/)
 
 ### 1. Trajectories
 <img width="600" src="https://user-images.githubusercontent.com/45934290/96549200-222db480-12ea-11eb-8273-30d08be27316.png"><br>
-KAIST VIO dataset includes four different trajectories: *circle, infinity, square,* and
-*pure_rotation*.<br>
-Each trajectory has three types of sequence: *normal speed, fast speed, and rotation*.<br>
-(the *pure rotation* sequence has only *normal speed, fast speed* types)<br><br>
++ KAIST VIO dataset includes four different trajectories: *circle, infinity, square,* and
+*pure_rotation*.
++ Each trajectory has three types of sequence: *normal speed, fast speed, and rotation*.
++ The *pure rotation* sequence has only *normal speed, fast speed* types<br><br>
 
 ### 2. Downloads
 
