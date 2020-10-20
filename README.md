@@ -21,6 +21,11 @@ You can download the whole dataset on [here](https://www.google.com/)
 + The *pure rotation* sequence has only *normal speed, fast speed* types<br><br>
 
 ### 2. Downloads
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 
 <br><br>
 ### 3. Available data
