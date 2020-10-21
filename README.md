@@ -40,9 +40,9 @@ You can download a single file from the link below. (or whole dataset from [KAIS
     + IMU data (3-axes accelerometer, 3-axes gyroscopes)
     + 6-DOF Ground-Truth
 + ROS topic
-    + Camera: *"/camera/infra1(2)/image_rect_raw", "/camera/color/image_raw"* (30 Hz)
-    + IMU: *"/mavros/imu/data"* (100 Hz)
-    + Ground-Truth: *"/pose_transformed"* (50 Hz)
+    + Camera(30 Hz): *"/camera/infra1(2)/image_rect_raw", "/camera/color/image_raw"*
+    + IMU(100 Hz): *"/mavros/imu/data"* 
+    + Ground-Truth(50 Hz): *"/pose_transformed"* 
 + In the **config** directory
     + trans-mat.yaml: translational matrix between the origin of the Ground-Truth and the VI sensor unit. 
     <br>(the offset has already been applied to the bag data, and this YAML file has estimated offset values, just for reference. To benchmark your VO/VIO method more accurately, you can use your alignment method with other tools, like origin alignment or Umeyama alignment from [evo](https://github.com/MichaelGrupp/evo))
