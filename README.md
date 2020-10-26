@@ -52,6 +52,7 @@ You can download a single file from the link below. (or whole dataset from [KAIS
 
 <br><br>
 ### 4. Setup
+##### - Hardware
 <div>
 <img width="300" src=https://user-images.githubusercontent.com/45934290/96550149-77b69100-12eb-11eb-91da-2d413cae40d6.png>
 <img width="313" src=https://user-images.githubusercontent.com/45934290/96550443-d419b080-12eb-11eb-805d-dab8393dd6f0.png>
