@@ -27,7 +27,8 @@ You can download a single file from the link below. (or whole dataset from [KAIS
 | **circle**   | normal<br>fast<br>rotation  | [link](http://urserver.kaist.ac.kr/url_new.png)<br>[link](https://www.google.com/)<br>[link](https://www.google.com/) |
 | **infinity**   | normal<br>fast<br>rotation  | [link](https://www.google.com/)<br>[link](https://www.google.com/)<br>[link](https://www.google.com/) |
 | **square**   | normal<br>fast<br>rotation  | [link](https://www.google.com/)<br>[link](https://www.google.com/)<br>[link](https://www.google.com/) |
-| **rotation**   | normal<br>fast  | [link](https://www.google.com/)<br>[link](https://www.google.com/) |
+| **rotation**   | normal<br>fast  | [link](https:| Trajectory | Type | ROS bag download |
+| :---:        |     :---      | :---:   |//www.google.com/)<br>[link](https://www.google.com/) |
 
 <br><br>
 ### 3. Dataset format
@@ -52,7 +53,7 @@ You can download a single file from the link below. (or whole dataset from [KAIS
 
 <br><br>
 ### 4. Setup
-##### - Hardware
+#### - Hardware
 <div>
 <img width="300" src=https://user-images.githubusercontent.com/45934290/96550149-77b69100-12eb-11eb-91da-2d413cae40d6.png>
 <img width="313" src=https://user-images.githubusercontent.com/45934290/96550443-d419b080-12eb-11eb-805d-dab8393dd6f0.png>
@@ -67,6 +68,13 @@ You can download a single file from the link below. (or whole dataset from [KAIS
     + OptiTrack Prime<sup>X</sup> 13 motion capture system with six cameras was used
     + including 6-DOF motion information.
     <br><br>
+    
 
+#### - Software (VO/VIO Algorithms): 
++ How to set each algorithm on the jetson board? Follow below links
+| VO/VIO | setting |
+| :---:        |     :---      |
+| VINS-Mono | [link](https://github.com/zinuok/VINS-Fusion) |
+| VINS-Fusion | [link](https://github.com/zinuok/VINS-Fusion) |
 
 
