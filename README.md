@@ -69,12 +69,8 @@ You can download a single file from the link below. (or whole dataset from [KAIS
     <br><br>
     
 
-#### - Software (VO/VIO Algorithms): 
-How to set each algorithm on the jetson board? Follow below links <br>
-| Trajectory | Type | ROS bag download |
-| :---:        |     :---      | :---:   |
-| **circle**   | normal<br>fast<br>rotation  | [link](http://urserver.kaist.ac.kr/url_new.png)<br>[link](https://www.google.com/)<br>[link](https://www.google.com/) |
-| **infinity**   | normal<br>fast<br>rotation  | [link](https://www.google.com/)<br>[link](https://www.google.com/)<br>[link](https://www.google.com/) |
-| **square**   | normal<br>fast<br>rotation  | [link](https://www.google.com/)<br>[link](https://www.google.com/)<br>[link](https://www.google.com/) |
-| **rotation**   | normal<br>fast  | [link](https://www.google.com/)<br>[link](https://www.google.com/) |
+#### - Software (VO/VIO Algorithms): How to set each algorithm on the jetson board?
+| VO/VIO | Setup link |
+| :---:        |     :---      
+| **VINS-Mono**   | [link](http://urserver.kaist.ac.kr/url_new.png) |
 
