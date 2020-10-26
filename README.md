@@ -69,8 +69,11 @@ You can download a single file from the link below. (or whole dataset from [KAIS
     <br><br>
     
 
-#### - Software (VO/VIO Algorithms): How to set each algorithm on the jetson board?
+#### - Software (VO/VIO Algorithms): How to set each (publicly available) algorithm on the jetson board?
 | VO/VIO | Setup link |
-| :---:        |     :---      
-| **VINS-Mono**   | [link](http://urserver.kaist.ac.kr/url_new.png) |
-
+| :---:        |     :---:  |     
+| **VINS-Mono**   | [link](https://github.com/zinuok/VINS-MONO) |
+| **ROVIO**   | [link](https://github.com/zinuok/Rovio) |
+| **VINS-Fusion**   | [link](https://github.com/zinuok/VINS-Fusion) |
+| **Stereo-MSCKF**   | [link](https://github.com/zinuok/MSCKF_VIO) |
+| **Kimera**   | [link](https://github.com/zinuok/Kimera-VIO-ROS) |
