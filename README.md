@@ -24,7 +24,7 @@ You can download the whole dataset on [KAIST VIO dataset](https://www.google.com
 You can download a single file from the link below. (or whole dataset from [KAIST VIO dataset](https://www.google.com/))<br>
 | Trajectory | Type | ROS bag download |
 | :---:        |     :---      | :---:   |
-| **circle**   | normal<br>fast<br>rotation  | [link](\\urobot.synology.me\Dataset3\jinwoo\circle)<br>[link](https://www.google.com/)<br>[link](https://www.google.com/) |
+| **circle**   | normal<br>fast<br>rotation  | [link](https://urobot.synology.me/Dataset3/jinwoo/circle)<br>[link](https://www.google.com/)<br>[link](https://www.google.com/) |
 | **infinity**   | normal<br>fast<br>rotation  | [link](https://www.google.com/)<br>[link](https://www.google.com/)<br>[link](https://www.google.com/) |
 | **square**   | normal<br>fast<br>rotation  | [link](https://www.google.com/)<br>[link](https://www.google.com/)<br>[link](https://www.google.com/) |
 | **rotation**   | normal<br>fast  | [link](https://www.google.com/)<br>[link](https://www.google.com/) |
