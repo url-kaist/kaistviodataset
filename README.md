@@ -24,10 +24,10 @@ You can download the whole dataset on [KAIST VIO dataset](https://www.google.com
 You can download a single file from the link below. (or whole dataset from [KAIST VIO dataset](https://www.google.com/))<br>
 | Trajectory | Type | ROS bag download |
 | :---:        |     :---      | :---:   |
-| **circle**   | normal<br>fast<br>rotation  | [link](https://urserver.kaist.ac.kr/publicdata/jinwoo/circle/circle.bag)<br>[link](https://www.google.com/)<br>[link](https://www.google.com/) |
-| **infinity**   | normal<br>fast<br>rotation  | [link](https://www.google.com/)<br>[link](https://www.google.com/)<br>[link](https://www.google.com/) |
-| **square**   | normal<br>fast<br>rotation  | [link](https://www.google.com/)<br>[link](https://www.google.com/)<br>[link](https://www.google.com/) |
-| **rotation**   | normal<br>fast  | [link](https://www.google.com/)<br>[link](https://www.google.com/) |
+| **circle**   | normal<br>fast<br>rotation  | [link](https://urserver.kaist.ac.kr/publicdata/jinwoo/circle/circle.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/jinwoo/circle/circle_fast.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/jinwoo/circle/circle_head.bag) |
+| **infinity**   | normal<br>fast<br>rotation  | [link](https://urserver.kaist.ac.kr/publicdata/jinwoo/infinite/infinite.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/jinwoo/infinite/infinite_fast.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/jinwoo/infinite/infinite_head.bag) |
+| **square**   | normal<br>fast<br>rotation  | [link](https://urserver.kaist.ac.kr/publicdata/jinwoo/square/square.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/jinwoo/square/square_fast.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/jinwoo/square/square_head.bag) |
+| **rotation**   | normal<br>fast  | [link](https://urserver.kaist.ac.kr/publicdata/jinwoo/rotation/rotation.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/jinwoo/rotation/rotation_fast.bag) |
 
 <br><br>
 ### 3. Dataset format
