@@ -3,7 +3,7 @@
 ***
 This is the dataset for testing the robustness of various VO/VIO methods
 
-You can download the whole dataset on [KAIST VIO dataset](https://urserver.kaist.ac.kr/publicdata/jinwoo/kaist_vio_dataset.zip)
+You can download the whole dataset on [KAIST VIO dataset](https://urserver.kaist.ac.kr/publicdata/jinwoo/kaist_vio_dataset.zip)<br>
 <img src="https://user-images.githubusercontent.com/45934290/98090400-5054ec00-1ec7-11eb-9832-291dc9dbbabf.gif" width="320" height="240" /><br>
 ***
 # Index
