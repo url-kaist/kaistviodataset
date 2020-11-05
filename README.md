@@ -46,7 +46,7 @@ You can download a single file from the link below. (or whole dataset from [KAIS
     + IMU data (3-axes accelerometer, 3-axes gyroscopes)
     + 6-DOF Ground-Truth
 + ROS topic
-    + Camera(30 Hz): *"/camera/infra1(2)/image_rect_raw", "/camera/color/image_raw"*
+    + Camera(30 Hz): *"/camera/infra1(2)/image_rect_raw/compressed", "/camera/color/image_raw/compressed"*
     + IMU(100 Hz): *"/mavros/imu/data"* 
     + Ground-Truth(50 Hz): *"/pose_transformed"* 
 + In the **config** directory
