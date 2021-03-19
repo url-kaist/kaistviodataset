@@ -75,7 +75,7 @@ You can download a single file from the link below. (or whole dataset from [KAIS
     <br><br>
     
 
-#### - Software (VO/VIO Algorithms): How to set each (publicly available) algorithm on the jetson board?
+#### - Software (VO/VIO Algorithms): How to set each (publicly available) algorithm on the jetson board
 | VO/VIO | Setup link |
 | :---:        |     :---:  |     
 | **VINS-Mono**   | [link](https://github.com/zinuok/VINS-MONO) |
