@@ -27,7 +27,7 @@ You can download the whole dataset on [KAIST VIO dataset](https://urserver.kaist
 + The *pure rotation* sequence has only *normal speed, fast speed* types<br><br>
 
 ### 2. Downloads
-You can download a single ROS bag file from the link below. (or whole dataset from [KAIST VIO dataset](https://www.google.com/))<br>
+You can download a single ROS bag file from the link below. (or whole dataset from [KAIST VIO dataset](https://urserver.kaist.ac.kr/publicdata/jinwoo/kaist_vio_dataset.zip)<br>
 | Trajectory | Type | ROS bag download |
 | :---:        |     :---      | :---:   |
 | **circle**   | normal<br>fast<br>rotation  | [link](https://urserver.kaist.ac.kr/publicdata/jinwoo/circle/circle.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/jinwoo/circle/circle_fast.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/jinwoo/circle/circle_head.bag) |
