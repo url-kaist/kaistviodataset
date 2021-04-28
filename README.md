@@ -85,7 +85,7 @@ You can download a single ROS bag file from the link below. (or whole dataset fr
 | **Kimera**   | [link](https://github.com/zinuok/Kimera-VIO-ROS) |
 
 
-### 4. Citing
+### 5. Citing
 
 If you use the dataset in an academic context, please cite the following publication:
 
@@ -96,6 +96,6 @@ If you use the dataset in an academic context, please cite the following publica
     year={2021}
     }
 
-### 5. Lisence
+### 6. Lisence
 
 This datasets are released under the Creative Commons license (CC BY-NC-SA 3.0), which is free for non-commercial use (including research).
