@@ -5,6 +5,8 @@ This is the dataset for testing the robustness of various VO/VIO methods
 
 You can download the whole dataset on [KAIST VIO dataset](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/kaist_vio_dataset.zip)
 
+Related paper: [Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmark Tests on a Micro Aerial Vehicle](https://ieeexplore.ieee.org/abstract/document/9416140)
+
 ***
 <div>
 <img src="https://user-images.githubusercontent.com/45934290/98090400-5054ec00-1ec7-11eb-9832-291dc9dbbabf.gif" width="320" height="240" />
