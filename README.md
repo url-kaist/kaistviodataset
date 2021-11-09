@@ -2,18 +2,20 @@
 
 Official page of ["Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmark Tests on a Micro Aerial Vehicle"](https://ieeexplore.ieee.org/abstract/document/9416140), which is accepted by RA-L with ICRA'21 option
 
+#### [[Video](https://www.youtube.com/watch?v=nZzgyhNimLI)] [[Preprint Paper](https://arxiv.org/abs/2103.01655)]
+
 ***
 This is the dataset for testing the robustness of various VO/VIO methods
 
 You can download the whole dataset on [KAIST VIO dataset](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/kaist_vio_dataset.zip)
-
-Related paper: [Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmark Tests on a Micro Aerial Vehicle (RA-L 2021)](https://ieeexplore.ieee.org/abstract/document/9416140)
 
 ***
 <div>
 <img src="https://user-images.githubusercontent.com/45934290/98090400-5054ec00-1ec7-11eb-9832-291dc9dbbabf.gif" width="320" height="240" />
 <img src="https://user-images.githubusercontent.com/45934290/98204512-82bf2180-1f79-11eb-87c1-66ed70eaae3b.gif" width="320" height="240" /><br>
 
+    
+    
 
 # Contents
 0. [Trajectories](### 1. Trajectories)
