@@ -15,10 +15,9 @@ You can download the whole dataset on [KAIST VIO dataset](https://urserver.kaist
 <img src="https://user-images.githubusercontent.com/45934290/98204512-82bf2180-1f79-11eb-87c1-66ed70eaae3b.gif" width="320" height="240" /><br>
 
     
-    
-
 # Contents
-0. [Trajectories](### 1. Trajectories)
+    
+0. [Trajectories](#Trajectories)
 0. Downloads
 0. Dataset format
 0. Setup
@@ -26,7 +25,7 @@ You can download the whole dataset on [KAIST VIO dataset](https://urserver.kaist
 
 
 
-### 1. Trajectories
+## Trajectories
 <img width="500" src="https://user-images.githubusercontent.com/45934290/96549200-222db480-12ea-11eb-8273-30d08be27316.png"><br>
 + Four different trajectories: *circle, infinity, square,* and *pure_rotation*.
 + Each trajectory has three types of sequence: *normal speed, fast speed, and rotation*.
