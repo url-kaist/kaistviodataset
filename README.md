@@ -17,21 +17,21 @@ You can download the whole dataset on [KAIST VIO dataset](https://urserver.kaist
     
 # Contents
     
-1. [Trajectories](#1.-Trajectories)
-2. [Downloads](#2.-Downloads)
-3. [Dataset format](#3.-Dataset format)
-4. [Setup](#4.-Setup)
+1. [Trajectories](#Trajectories)
+2. [Downloads](#Downloads)
+3. [Dataset format](#Dataset format)
+4. [Setup](#Setup)
 <br><br>
 
 
 
-## 1. Trajectories
+## Trajectories
 <img width="500" src="https://user-images.githubusercontent.com/45934290/96549200-222db480-12ea-11eb-8273-30d08be27316.png"><br>
 + Four different trajectories: *circle, infinity, square,* and *pure_rotation*.
 + Each trajectory has three types of sequence: *normal speed, fast speed, and rotation*.
 + The *pure rotation* sequence has only *normal speed, fast speed* types<br><br>
 
-## 2. Downloads
+## Downloads
 You can download a single ROS bag file from the link below. (or whole dataset from [KAIST VIO dataset](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/kaist_vio_dataset.zip))<br>
 | Trajectory | Type | ROS bag download |
 | :---:        |     :---      | :---:   |
@@ -41,7 +41,7 @@ You can download a single ROS bag file from the link below. (or whole dataset fr
 | **rotation**   | normal<br>fast  | [link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/rotation/rotation.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/rotation/rotation_fast.bag) |
 
 <br><br>
-## 3. Dataset format
+## Dataset format
 <img width="300" src=https://user-images.githubusercontent.com/45934290/96554882-13e39680-12f2-11eb-9464-135aca484dc4.png><br>
 
 + Each set of data is recorded as a **ROS bag** file.
@@ -62,7 +62,7 @@ You can download a single ROS bag file from the link below. (or whole dataset fr
 
 
 <br><br>
-## 4. Setup
+## Setup
 #### - Hardware
 <div>
 <img width="300" src=https://user-images.githubusercontent.com/45934290/96550149-77b69100-12eb-11eb-91da-2d413cae40d6.png>
