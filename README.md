@@ -1,4 +1,6 @@
-# KAIST VIO dataset
+# KAIST VIO dataset (RA-L'21 w/ ICRA Option)
+
+Official page of ["Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmark Tests on a Micro Aerial Vehicle"](https://ieeexplore.ieee.org/abstract/document/9416140), which is accepted by RA-L with ICRA'21 option
 
 ***
 This is the dataset for testing the robustness of various VO/VIO methods
@@ -13,11 +15,11 @@ Related paper: [Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmark Te
 <img src="https://user-images.githubusercontent.com/45934290/98204512-82bf2180-1f79-11eb-87c1-66ed70eaae3b.gif" width="320" height="240" /><br>
 
 
-# Index
-### 1. Trajectories
-### 2. Downloads
-### 3. Dataset format
-### 4. Setup
+# Contents
+0. [Trajectories](### 1. Trajectories)
+0. Downloads
+0. Dataset format
+0. Setup
 <br><br>
 
 
