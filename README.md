@@ -19,8 +19,9 @@ You can download the whole dataset on [KAIST VIO dataset](https://urserver.kaist
     
 1. [Trajectories](#Trajectories)
 2. [Downloads](#Downloads)
-3. [Dataset format](#Dataset format)
+3. [Dataset format](#Dataset-format)
 4. [Setup](#Setup)
+5. [Citation](#Citation)
 <br><br>
 
 
@@ -90,7 +91,7 @@ You can download a single ROS bag file from the link below. (or whole dataset fr
 | **Kimera**   | [link](https://github.com/zinuok/Kimera-VIO-ROS) |
 
 
-### 5. Citing
+## Citation
 
 If you use the dataset in an academic context, please cite the following publication:
 
@@ -101,6 +102,6 @@ If you use the dataset in an academic context, please cite the following publica
     year={2021}
     }
 
-### 6. Lisence
+## Lisence
 
 This datasets are released under the Creative Commons license (CC BY-NC-SA 3.0), which is free for non-commercial use (including research).
