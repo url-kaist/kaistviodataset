@@ -5,7 +5,7 @@ Official page of [*"Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmar
 
 <div align="center">
     
-  [![arxiv](http://img.shields.io/badge/paper-arxiv.2003.12870-B31B1B.svg)](https://arxiv.org/abs/2003.12870)
+  [![arxiv](http://img.shields.io/badge/paper-arxiv.2103.01655.svg)](https://arxiv.org/abs/2103.01655)
   [![journal](https://img.shields.io/badge/paper-RA_L%202021-4b44ce.svg)](https://ieeexplore.ieee.org/abstract/document/9416140)
 
 </div>
