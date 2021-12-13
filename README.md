@@ -3,7 +3,6 @@
 Official page of [*"Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmark Tests on a Micro Aerial Vehicle"*](https://ieeexplore.ieee.org/abstract/document/9416140), which is accepted by RA-L with ICRA'21 option
 
 <div align="center">
-  [![Video](http://img.shields.io/badge/paper-arxiv.2003.12870-B31B1B.svg)](https://www.youtube.com/watch?v=nZzgyhNimLI)    
   [![Arxiv](http://img.shields.io/badge/paper-arxiv.2003.12870-B31B1B.svg)](https://arxiv.org/abs/2103.01655)
   [![Journal](https://img.shields.io/badge/paper-ICMLA%202020-4b44ce.svg)](https://ieeexplore.ieee.org/abstract/document/9416140)
 
