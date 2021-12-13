@@ -8,9 +8,7 @@ Official page of [*"Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmar
 
 </div>
 
-<!--
-#### [[Video](https://www.youtube.com/watch?v=nZzgyhNimLI)] [[Preprint Paper](https://arxiv.org/abs/2103.01655)]
--->
+
 
 ***
 This is the dataset for testing the robustness of various VO/VIO methods
