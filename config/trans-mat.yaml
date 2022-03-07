@@ -1,4 +1,4 @@
-# ! note. This config information is rarely used and is just a dummy for reference. Other config files are sufficient to use this dataset.
+# This config information is rarely used and is just a dummy for reference. Other config files are sufficient to use this dataset.
 
 # IMU(body) to Ground-Truth
   - - -0.04030123999740945
