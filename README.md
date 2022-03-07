@@ -2,7 +2,7 @@
 
 ## Remark
 **This repository has been merged into [UrbanRoboticsLab_Git](https://github.com/url-kaist/KAIST_VIO_Dataest).
-Please refer/fork/post your questions on that repository from now on.
+Please refer, fork, or post your issues on that repository from now on.
 (however, I'll keep my eyes on both repositories.)**
 
 ##
