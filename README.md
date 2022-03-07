@@ -1,11 +1,11 @@
 # KAIST VIO dataset (RA-L'21 w/ ICRA Option)
 
 ## Remark
-`
-This repository has been merged into [UrbanRoboticsLab_Git](https://github.com/url-kaist/KAIST_VIO_Dataest).
+**This repository has been merged into [UrbanRoboticsLab_Git](https://github.com/url-kaist/KAIST_VIO_Dataest).
 Please refer, fork, or post your issues on that repository from now on.
-(however, I'll keep my eyes on both repositories.)
-`
+(however, I'll keep my eyes on both repositories.)**
+
+<br><br>
 
 ##
 Official page of [*"Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmark Tests on a Micro Aerial Vehicle"*](https://ieeexplore.ieee.org/abstract/document/9416140), which is accepted by RA-L with ICRA'21 option
