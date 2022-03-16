@@ -1,13 +1,5 @@
 # KAIST VIO dataset (RA-L'21 w/ ICRA Option)
 
-## Remark
-**This repository has been merged into [UrbanRoboticsLab_Git](https://github.com/url-kaist/KAIST_VIO_Dataest).
-Please refer, fork, or post your issues on that repository from now on.
-(however, I'll keep my eyes on both repositories.)**
-
-<br><br>
-
-##
 Official page of [*"Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmark Tests on a Micro Aerial Vehicle"*](https://ieeexplore.ieee.org/abstract/document/9416140), which is accepted by RA-L with ICRA'21 option
 
 
@@ -26,15 +18,16 @@ Official page of [*"Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmar
 
 
 ***
-This is the dataset for testing the robustness of various VO/VIO methods
+This is the dataset for testing the robustness of various VO/VIO methods, acquired on reak UAV.
 
 You can download the whole dataset on [KAIST VIO dataset](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/kaist_vio_dataset.zip)
 
 ***
 <div>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/45934290/98090400-5054ec00-1ec7-11eb-9832-291dc9dbbabf.gif" width="320" height="240" />
 <img src="https://user-images.githubusercontent.com/45934290/98204512-82bf2180-1f79-11eb-87c1-66ed70eaae3b.gif" width="320" height="240" /><br>
-
+</p>
     
 # Contents
     
@@ -47,24 +40,31 @@ You can download the whole dataset on [KAIST VIO dataset](https://urserver.kaist
 
 
 
-## Trajectories
+## Trajectories>
+<p align="center">
 <img width="500" src="https://user-images.githubusercontent.com/45934290/96549200-222db480-12ea-11eb-8273-30d08be27316.png"><br>
+</p>
 + Four different trajectories: *circle, infinity, square,* and *pure_rotation*.
 + Each trajectory has three types of sequence: *normal speed, fast speed, and rotation*.
 + The *pure rotation* sequence has only *normal speed, fast speed* types<br><br>
 
 ## Downloads
 You can download a single ROS bag file from the link below. (or whole dataset from [KAIST VIO dataset](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/kaist_vio_dataset.zip))<br>
+  
+
 | Trajectory | Type | ROS bag download |
 | :---:        |     :---      | :---:   |
 | **circle**   | normal<br>fast<br>rotation  | [link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/circle/circle.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/circle/circle_fast.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/circle/circle_head.bag) |
 | **infinity**   | normal<br>fast<br>rotation  | [link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/infinite/infinite.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/infinite/infinite_fast.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/infinite/infinite_head.bag) |
 | **square**   | normal<br>fast<br>rotation  | [link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/square/square.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/square/square_fast.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/square/square_head.bag) |
-| **rotation**   | normal<br>fast  | [link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/rotation/rotation.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/rotation/rotation_fast.bag) |
+| **rotation**   | normal<br>fast  | [link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/rotation/rotation.bag)<br>[link](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/rotation/rotation_fast.bag) |>
+
 
 <br><br>
 ## Dataset format
+<p align="center">
 <img width="300" src=https://user-images.githubusercontent.com/45934290/96554882-13e39680-12f2-11eb-9464-135aca484dc4.png><br>
+</p>
 
 + Each set of data is recorded as a **ROS bag** file.
 + Each **data** sequence contains the followings:
@@ -87,9 +87,11 @@ You can download a single ROS bag file from the link below. (or whole dataset fr
 ## Setup
 #### - Hardware
 <div>
+<p align="center">
 <img width="300" src=https://user-images.githubusercontent.com/45934290/96550149-77b69100-12eb-11eb-91da-2d413cae40d6.png>
 <img width="313" src=https://user-images.githubusercontent.com/45934290/96550443-d419b080-12eb-11eb-805d-dab8393dd6f0.png>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.1 Lab Environment  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.2 UAV platform<br>
+</p>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.1 Lab Environment  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.2 UAV platform<br>
 
 + **VI sensor unit**
     + camera: Intel Realsense D435i (640x480 for infra 1,2 & RGB images)
