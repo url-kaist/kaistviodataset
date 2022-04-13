@@ -40,7 +40,7 @@ You can download the whole dataset on [KAIST VIO dataset](https://urserver.kaist
 
 
 
-## Trajectories>
+## Trajectories
 <p align="center">
 <img width="500" src="https://user-images.githubusercontent.com/45934290/96549200-222db480-12ea-11eb-8273-30d08be27316.png"><br>
 </p>
@@ -82,6 +82,8 @@ You can download a single ROS bag file from the link below. (or whole dataset fr
     + imu-params.yaml: estimated noise parameters of Pixhawk 4 mini
     + cam-imu.yaml: Camera intrinsics, Camera-IMU extrinsics in kalibr format
 
+- publish ground truth as trajectory ROS topic
+  - dd
 
 <br><br>
 ## Setup
