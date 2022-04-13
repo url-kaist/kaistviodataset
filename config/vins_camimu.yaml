@@ -24,13 +24,13 @@ body_T_cam0: !!opencv-matrix
    rows: 4
    cols: 4
    dt: d
-   data: [ 0.0403, 0.0263, 0.9988, -0.0364, -0.9990, -0.0204, -0.0398, -0.1376, 0.0194, -0.9994, 0.0271, -0.0188, 0., 0., 0., 1. ]
+   data: [ -0.040301239997409,   0.026311325355147,   0.998841090570831,   0.138044476707325, -0.998999875552468,  -0.020436499663525,  -0.039769311380205,   0.014814825544913, 0.019366432320491,  -0.999444877739417,   0.027108627033059,  -0.034914942075322, 0., 0., 0., 1. ]
 
 body_T_cam1: !!opencv-matrix
    rows: 4
    cols: 4
    dt: d
-   data: [ -0.0391, 0.0250, 0.9989, -0.0366, -0.9990, -0.0203, -0.0386, -0.1365, 0.0193, -0.9995, 0.0258, 0.0311, 0., 0., 0., 1. ]
+   data: [ -0.039057524725661,   0.025035478432625,   0.998923287636220,   0.136237639761255, -0.999049856889956,  -0.020323396666371,  -0.038553119148778,  -0.035104709944336, 0.019336318430947,  -0.999479956961414,   0.025805472713092,  -0.034004370235121, 0., 0., 0., 1. ]
 
 #Multiple thread support
 multiple_thread: 1
@@ -63,4 +63,3 @@ td: 0.00                             # initial value of time offset. unit: s. re
 load_previous_pose_graph: 0        # load and reuse previous pose graph; load from 'pose_graph_save_path'
 pose_graph_save_path: "/home/dji/output/pose_graph/" # save and load path
 save_image: 0                   # save image in pose graph for visualization prupose; you can close this function by setting 0 
-
