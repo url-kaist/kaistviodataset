@@ -83,7 +83,9 @@ You can download a single ROS bag file from the link below. (or whole dataset fr
     + cam-imu.yaml: Camera intrinsics, Camera-IMU extrinsics in kalibr format
 
 - publish ground truth as trajectory ROS topic
-  - dd
+  - ground truth are recorded as 'geometry_msgs/PoseStamped'
+  - but you may want to acquire 'nav_msgs/Path' rather than just 'Pose' for visuaslization purpose (e.g. Rviz)
+  - For this, you can refer this package for 'geometry_msgs/PoseStamped'->'nav_msgs/Path': [tf_to_trajectory](https://github.com/engcang/tf_to_trajectory#execution)
 
 <br><br>
 ## Setup
