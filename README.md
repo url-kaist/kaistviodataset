@@ -122,7 +122,7 @@ You can download a single ROS bag file from the link below. (or whole dataset fr
 
 If you use the dataset in an academic context, please cite the following publication:
 
-@article{jeon2021run,
+      @article{jeon2021run,
   title={Run your visual-inertial odometry on NVIDIA Jetson: Benchmark tests on a micro aerial vehicle},
   author={Jeon, Jinwoo and Jung, Sungwook and Lee, Eungchang and Choi, Duckyu and Myung, Hyun},
   journal={IEEE Robotics and Automation Letters},
@@ -131,7 +131,7 @@ If you use the dataset in an academic context, please cite the following publica
   pages={5332--5339},
   year={2021},
   publisher={IEEE}
-}
+}  
 
 ## Lisence
 
