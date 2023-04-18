@@ -18,7 +18,7 @@ Official page of [*"Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmar
 
 
 ***
-This is the dataset for testing the robustness of various VO/VIO methods, acquired on reak UAV.
+This is the dataset for testing the robustness of various VO/VIO methods, acquired on a UAV.
 
 You can download the whole dataset on [KAIST VIO dataset](https://urserver.kaist.ac.kr/publicdata/KAIST_VIO_Dataset/kaist_vio_dataset.zip)
 
